@@ -1,4 +1,5 @@
 using System;
+using Chess.Move;
 
 namespace Chess {
 
@@ -6,7 +7,7 @@ namespace Chess {
   {
     public static void Main()
     {
-      
+      Queen moves = new Queen();
       // ask for queen coordinate 1
       Console.WriteLine("What is the Queen's vertical coordinate is (1-9)");
       string queenV = Console.ReadLine();
@@ -22,8 +23,9 @@ namespace Chess {
 
       string[] coordinates = {queenV, queenH, enemyV, enemyH};
       // send coordinates to business logic
-      bool result = 
+      bool result = moves.GetMove(coordinates);
       // return true or false
+      Console.WriteLine(result);
 
     }
   } 
