@@ -1,0 +1,11 @@
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.csprojAssemblyReference.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.csproj.CoreCompileInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.AssemblyInfoInputs.cache
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.AssemblyInfo.cs
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\bin\Debug\netcoreapp2.2\queen-attack.deps.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\bin\Debug\netcoreapp2.2\queen-attack.runtimeconfig.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\bin\Debug\netcoreapp2.2\queen-attack.runtimeconfig.dev.json
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\bin\Debug\netcoreapp2.2\queen-attack.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\bin\Debug\netcoreapp2.2\queen-attack.pdb
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.dll
+C:\Users\mikem\Desktop\coding-practice\Week-8\QueenAttack\obj\Debug\netcoreapp2.2\queen-attack.pdb
